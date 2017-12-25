@@ -19,12 +19,12 @@ Academic homepage on ResearchGate: https://www.researchgate.net/profile/Lei_Fang
 
 - L. Fang, L. Tang, J. Wang, Q. Shang. A semi-physical model for pneumatic control valve. Nonlinear Dynamics, vol.85, pp.1735-1748,2016.
 
-- L. Fang, J. Wang, X. Tan, Q. Shang. Analysis and compensation of control valve stiction-induced limit cycles. IEEE/ASME Transactions on Mechatronics, vol.21, no.6, pp.2773-2783.
+- L. Fang, J. Wang, X. Tan, Q. Shang. Analysis and compensation of control valve stiction-induced limit cycles. IEEE/ASME Transactions on Mechatronics, vol.21, no.6, pp.2773-2783, 2016.
 
-- L. Fang, J. Wang, X. Tan. Frequency response analysis for closed-loop systems with hysteresis via incremental harmonic balance method. Automatica, vol.88, no.2, vol.48-56, 2018.
+- L. Fang, J. Wang, X. Tan. Frequency response analysis for closed-loop systems with hysteresis via incremental harmonic balance method. Automatica, vol.88, vol.48-56, 2018.
 
 #### EI Conference Papers
-- L. Fang, J. Wang, Q. Zhang. Identification of extended Hammerstein systems for modeling sticky control valves under general types of input signals. The 32nd Chinese Control Conference, pp.1698-1703, July 26-28, 2013, Xi’an China.
+- L. Fang, J. Wang, Q. Zhang. Identification of extended Hammerstein systems for modeling sticky control valves under general types of input signals. The 32nd Chinese Control Conference, pp.1698-1703, July 26-28, 2013, Xi’an, China.
 
 - L. Tang, L. Fang, J. Wang, Q. Shang. Modeling and identification for pneumatic control valves with stiction. The 17th IFAC Symposium on System Identification, pp.1244-1249, October 19-21, 2015, Beijing, China.
 
