@@ -2,7 +2,7 @@
 
 ## Personal Information
 
-I received the Ph.D degree in Automatic Control from Peking University, Beijing, China in 2016. My research interests were mainly the block-oriented nonlinear system identification and its application. During the Ph.D career, I have published 5 SCI journal papers and 4 EI conference papers.
+I received the Ph.D degree in Automatic Control from Peking University, Beijing, China in 2016. My research interests were mainly the block-oriented nonlinear system identification and its application. During the Ph.D career, I have published 5 SCI journal papers and 4 EI conference papers. My dissertation is entitled *On Block-Oriented Nonlinear Systems with Application to Control Valves*.
 
 Currently I am an algorithm engineer in Huawei Technology Co., Ltd.
 
@@ -32,4 +32,5 @@ Academic homepage on ResearchGate: https://www.researchgate.net/profile/Lei_Fang
 
 - **L. Fang**, J. Wang, X. Tan, Q. Shang. Analysis and compensation of control valve stiction-induced limit cycles. 2016 IEEE International Conference on Advanced Intelligent Machatronics, pp.1688-1693, July 12-15, 2016, Banff, Alberta, Canada.
 
-
+#### Ph.D Dissertation
+- **Lei Fang**. *On Block-Oriented Nonlinear Systems with Application to Control Valves*. Ph.D dissertation. Peking University, 2016.
